@@ -2,9 +2,13 @@
 // @name         Amazon Photos AlbumTree
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  Amazon Photos アルバムを階層フォルダで管理 (iPhone向け)
+// @description  Amazon Photos AlbumTree
 // @match        https://www.amazon.co.jp/photos/*
 // @match        https://www.amazon.com/photos/*
+
+// @downloadURL  https://raw.githubusercontent.com/USERNAME/REPO/main/amazon-photos-albumtree.user.js
+// @updateURL    https://raw.githubusercontent.com/USERNAME/REPO/main/amazon-photos-albumtree.user.js
+
 // @grant        none
 // ==/UserScript==
 
